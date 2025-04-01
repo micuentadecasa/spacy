@@ -1,0 +1,13 @@
+spacy
+spacy-transformers
+torch
+transformers
+datasets
+
+setuptools
+wheel
+tqdm
+seqeval
+accelerate
+evaluate
+tensorboard
